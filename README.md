@@ -19,17 +19,13 @@ The data pipeline architecture is designed with scalability and efficiency in mi
 6. **Visualization**: Insights are presented through **Power BI dashboards**.
 
 ---
+## 📈 Dashboard Overview  
+### 📍 Visualization:  
+![Alt Text](images/dash_1.jpg)
 
-## 📊 Dashboards
-### 1️⃣ **First Dashboard**  
-This dashboard is dedicated to general analytics on Gitex information across various dimensions. It provides a high-level overview of the key metrics and trends.
-
-![First Dashboard](images/dash_1.jpg)
-
-### 2️⃣ **Second Dashboard**  
-This dashboard focuses on a deeper analysis and is specifically dedicated to insights about the speakers at Gitex. It includes detailed metrics and tailored visualizations.
-
-![Second Dashboard](images/dash_2.jpg)
+## 🌐 How to Access  
+You can view the live dashboard using the link below:  
+👉 **[View the Dashboard](https://app.powerbi.com/reportEmbed?reportId=58133c80-8efa-4e6a-bab1-b691351494df&autoAuth=true&ctid=04d6a2f0-64b2-4e71-b348-646401d08ee8)**  
 
 ---
 
