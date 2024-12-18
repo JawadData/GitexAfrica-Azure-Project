@@ -25,7 +25,7 @@ The data pipeline architecture is designed with scalability and efficiency in mi
 
 ## 🌐 How to Access  
 You can view the live dashboard using the link below:  
-👉 **[View the Dashboard](https://app.powerbi.com/reportEmbed?reportId=58133c80-8efa-4e6a-bab1-b691351494df&autoAuth=true&ctid=04d6a2f0-64b2-4e71-b348-646401d08ee8)**  
+👉 **[View the Dashboard](https://app.powerbi.com/view?r=eyJrIjoiMTJjYmE4NjYtOTQ0Ny00YjRiLWE4OTQtODM4MmY4ZDVkYTdjIiwidCI6ImMyNzg3OTIyLTExZDktNGNhOC1hYWRmLTVlZjdmZjMxYTEyNyJ9)**  
 
 ---
 
